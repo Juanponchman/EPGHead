@@ -36,7 +36,7 @@ URLS = [
     'https://www.open-epg.com/files/unitedstates3.xml.gz',
     'https://www.open-epg.com/files/unitedstates4.xml.gz',
     'https://www.open-epg.com/files/unitedstates5.xml.gz',
-    'https://www.open-epg.com/files/unitedstates6.xml.gz'
+    'https://www.open-epg.com/files/unitedstates6.xml.gz',
     'https://www.open-epg.com/files/unitedstates7.xml.gz',
     'https://www.open-epg.com/files/unitedstates8.xml.gz',
     'https://www.open-epg.com/files/unitedstates8.xml.gz',
